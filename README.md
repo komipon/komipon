@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @komipon
 - 👀 I’m interested in a lot of stuff
-- 🌱 I’m currently learning Webservers, APIs
-- 💞️ I’m looking to collaborate on ?
+- 🌱 I’m currently learning Webservers, APIs, GNOME stuff
 - 📫 How to reach me captaintripod@hotmail.com
 
 <!---
